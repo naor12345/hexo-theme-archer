@@ -23,6 +23,11 @@
             <% } %>
         </div>
     <% } %>
+    <% if(theme.project.enable) { %>
+        <div class="project">
+            <a href = "<%- url_for("/project") %>" >MY PROJECTS</a>
+        </div>
+    <% } %>
     <% if(theme.about.enable) { %>
         <div class="about-me">
             <a href = "<%- url_for("/about") %>" >ABOUT ME</a>

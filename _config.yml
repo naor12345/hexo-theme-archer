@@ -2,7 +2,7 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: naor
 # signature
 signature: witness me
 # SNS (you can custom the order)
@@ -34,14 +34,17 @@ friends:
 about:
   enable: true
   image: '/intro/about-bg.jpg'
+project:
+  enable: true
+  image: '/intro/project.jpg'
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: naor's Studio
 # main title
-main_title: fi3ework's Studio.
+main_title: naor's Studio
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Greatness From Small Beginnings.
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image

@@ -1,7 +1,7 @@
 @import '../_variables.scss';
 
 // ========== main ========== //
-.post-body, .about-body {
+.post-body, .about-body, .project-body {
     main {
         margin: 0;
     }
@@ -13,7 +13,7 @@
 }
 
 // ========== intro ========== //
-.post-body, .about-body {
+.post-body, .about-body, .project-body {
     .site-intro-meta {
         width: 50%;
         min-width: 42.8125rem;
